@@ -1,0 +1,8 @@
+
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Dhaka&appid=f5e44ee7d8dfbccf623e9c9d28bd93f4&units=metric
+
+
+API key: f5e44ee7d8dfbccf623e9c9d28bd93f4

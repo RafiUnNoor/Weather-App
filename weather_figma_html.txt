@@ -1,0 +1,240 @@
+<section>
+    <div class="div">
+        <div class="div-2">
+          <div class="div-3">
+            <div class="div-4">
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/83299237-bd90-42cf-851d-312939dae833?"
+                class="img"
+              />
+              <div class="div-5">New York</div>
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/597dcfbe-45f2-4c21-9a06-30ac3f03071a?"
+                class="img-2"
+              />
+            </div>
+            <div class="div-6">Cloudy</div>
+            <div class="div-7">26°C</div>
+            <div class="div-8">Sunday | 12 Dec 2023</div>
+          </div>
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/6e7b05ef-33de-421c-a544-2f3d27c700f6?"
+            class="img-3"
+          />
+        </div>
+        <div class="div-9">
+          <div class="div-10">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-4"
+            />
+            <img
+              loading="lazy"
+              src="https://cdn.builder.io/api/v1/image/assets/TEMP/18ca5a53-8887-42c0-afc5-f20d8cd6ed23?"
+              class="img-5"
+            />
+            <div class="div-11">weather</div>
+            <img
+              loading="lazy"
+              src="https://cdn.builder.io/api/v1/image/assets/TEMP/6151b709-5529-4be1-a979-ec7340078e08?"
+              class="img-6"
+            />
+            <div class="div-12">explore</div>
+            <img
+              loading="lazy"
+              src="https://cdn.builder.io/api/v1/image/assets/TEMP/e907c67e-0342-4350-9252-6dec33cb4d46?"
+              class="img-7"
+            />
+            <div class="div-13">cities</div>
+            <img
+              loading="lazy"
+              src="https://cdn.builder.io/api/v1/image/assets/TEMP/1f964cac-b001-42dd-b777-72befea72ce2?"
+              class="img-8"
+            />
+            <div class="div-14">settings</div>
+          </div>
+          <div class="div-15">
+            <div class="div-16">
+              <div class="div-17">
+                <img
+                  loading="lazy"
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/f00c5ff6-5667-4416-8dc4-5be62a4597a2?"
+                  class="img"
+                />
+                <div class="div-18">Activities in your area</div>
+              </div>
+              <div class="div-19">
+                <div class="div-20">
+                  <div class="column">
+                    <div class="div-21">
+                      <img
+                        loading="lazy"
+                        srcset="..."
+                        class="img-9"
+                      />
+                      <div class="div-22">2km away</div>
+                    </div>
+                  </div>
+                  <div class="column-2">
+                    <div class="div-23">
+                      <img
+                        loading="lazy"
+                        srcset="..."
+                        class="img-10"
+                      />
+                      <div class="div-24">1.5km away</div>
+                    </div>
+                  </div>
+                  <div class="column-3">
+                    <div class="div-25">
+                      <img
+                        loading="lazy"
+                        srcset="..."
+                        class="img-11"
+                      />
+                      <div class="div-26">3km away</div>
+                    </div>
+                  </div>
+                  <div class="column-4">
+                    <div class="div-27">
+                      <img
+                        loading="lazy"
+                        srcset="..."
+                        class="img-12"
+                      />
+                      <div class="div-28">500m away</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="div-29">
+              <div class="div-30">
+                <div class="div-31">
+                  <img
+                    loading="lazy"
+                    src="https://cdn.builder.io/api/v1/image/assets/TEMP/26a1d0d5-60a6-4cd5-9783-43133665d7ec?"
+                    class="img-13"
+                  />
+                  <div class="div-32">24-hour forecast</div>
+                </div>
+                <div class="div-33">26°</div>
+              </div>
+              <div class="div-34">
+                <img
+                  loading="lazy"
+                  srcset="..."
+                  class="img-14"
+                />
+                <div class="div-35">
+                  <div class="div-36">
+                    <div class="div-37">Now</div>
+                    <div class="div-38">9.3km/h</div>
+                  </div>
+                  <div class="div-39">22:00</div>
+                </div>
+                <img
+                  loading="lazy"
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/1e13cb65-14ab-4d8b-8988-c26058615173?"
+                  class="img-15"
+                />
+              </div>
+              <div class="div-40">
+                <div class="div-41">
+                  <div class="div-42">
+                    <div class="div-43">12km/h</div>
+                    <div class="div-44">00:00</div>
+                  </div>
+                  <div class="div-45">
+                    <img
+                      loading="lazy"
+                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/9c72c9b7-cd91-48cd-a304-d9c1933da67b?"
+                      class="img-16"
+                    />
+                    <div class="div-46">15km/h</div>
+                    <div class="div-47">2:00</div>
+                  </div>
+                </div>
+                <div class="div-48">
+                  <div class="div-49">
+                    <img
+                      loading="lazy"
+                      src="https://cdn.builder.io/api/v1/image/assets/TEMP/1198e099-07e6-45bc-966a-035767b1b92a?"
+                      class="img-17"
+                    />
+                    <div class="div-50">15km/h</div>
+                    <div class="div-51">4:00</div>
+                  </div>
+                  <div class="div-52">
+                    <div class="div-53">15km/h</div>
+                    <div class="div-54">6:00</div>
+                  </div>
+                </div>
+                <div class="div-55">
+                  <div class="div-56">15km/h</div>
+                  <div class="div-57">8:00</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="div-58">
+            <div class="div-59">
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/08d31513-d871-4e19-8cf1-c06502071f9e?"
+                class="img-18"
+              />
+              <div class="div-60">
+                <div class="div-61">
+                  <div class="div-62">FRI</div>
+                  <div class="div-63">SAT</div>
+                  <div class="div-64">SUN</div>
+                  <div class="div-65">MON</div>
+                  <div class="div-66">TUES</div>
+                </div>
+                <img
+                  loading="lazy"
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/595fda21-1055-4144-a641-1e55ae29890e?"
+                  class="img-19"
+                />
+                <div class="div-67">
+                  <img
+                    loading="lazy"
+                    src="https://cdn.builder.io/api/v1/image/assets/TEMP/2d724f1d-7a21-4e85-b5bd-8491fb7df81b?"
+                    class="img-20"
+                  />
+                  <div class="div-68">8:00PM GMT</div>
+                </div>
+              </div>
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/d0e2f4e1-34e6-4cf1-8242-20f841157de9?"
+                class="img-21"
+              />
+            </div>
+            <div class="div-69">
+              <div class="div-70">AIR CONDITIONS</div>
+              <div class="div-71">
+                <img
+                  loading="lazy"
+                  src="https://cdn.builder.io/api/v1/image/assets/TEMP/79e8c5eb-e80b-467a-a6d1-1ef47809d7cb?"
+                  class="img-22"
+                />
+                <div class="div-72">Real Feel</div>
+              </div>
+              <div class="div-73">30°</div>
+            </div>
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-23"
+            />
+          </div>
+        </div>
+      </div>
+      
+</section>
